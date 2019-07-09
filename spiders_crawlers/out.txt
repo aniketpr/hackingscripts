@@ -1,0 +1,10 @@
+sodhanii.com/
+
+foophones.securitybrigade.com:8080/
+
+foophones.securitybrigade.com:8080/buy
+
+foophones.securitybrigade.com:8080/category
+
+foophones.securitybrigade.com:8080/images
+
